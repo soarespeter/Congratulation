@@ -3,6 +3,56 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+}
+
+section{
+
+    display: inline-block;
+
+
+
+}
+
+
+
+img{
+    display: inline-block;
+    width: 595px;
+    height: 500px;
+   
+}
+
+
+
+main{
+
+display: inline-block;
+
+
+
+
+}
+
+
+h1{
+    width: 582px;
+    height: 164px;
+    font-family: Poppins;
+    font-weight: 700;
+    font-size: 62px;
+    line-height: 82px;
+    letter-spacing: 0.6px;
+
+
+}
+
+
+p{
+
+    width: 493px;
+    height: 99px;
+    top: 553px;
+    left: 801px;
 
 
 
