@@ -1,5 +1,5 @@
 *{
-
+    font-family: "Poppins", serif;
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -14,12 +14,99 @@ section{
 }
 
 
+header{
+  
+    margin-left: 42px;
+    margin-top: 47px;
+    color: #17233D;
+    
+
+
+
+}
+
+
+.button-header{
+
+    width: 124px;
+    height: 51px;
+    top: 32px;
+    border-radius: 6px;
+    border-width: 1px;
+    left: 420px;
+    background:#6FBF44;
+    border: none;
+    font-family: Poppins;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 1px;
+    color: #FFFF;
+    cursor: pointer;
+
+}
+
+
+
+.button-header:active{
+
+
+
+    opacity: 0.6;
+}
+
+
+.button-header:hover{
+
+
+
+    color:deeppink;
+}
+
+ 
+
+
+
+
+
+
+
+
+.link-header{
+
+    width: 83px;
+    height: 21px;
+    font-family: Poppins;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+    margin-right: 32px;
+    cursor: pointer;
+}
+
+
+
+.link-header:hover{
+
+
+
+    color:deeppink;
+
+
+
+
+
+}
+
+
 
 img{
     display: inline-block;
     width: 595px;
     height: 500px;
-   
+    margin-left: 121px;
+    margin-top: 163px;
+    margin-bottom: 102px;
 }
 
 
@@ -27,6 +114,11 @@ img{
 main{
 
 display: inline-block;
+margin-left: 84px;
+position: absolute;
+
+
+
 
 
 
@@ -35,6 +127,8 @@ display: inline-block;
 
 
 h1{
+    position: relative;
+    display: inline-block;
     width: 582px;
     height: 164px;
     font-family: Poppins;
@@ -42,6 +136,13 @@ h1{
     font-size: 62px;
     line-height: 82px;
     letter-spacing: 0.6px;
+    color: #161A49;
+    margin-top: 345px;
+    margin-bottom: 47px;
+    
+    
+    
+   
 
 
 }
@@ -53,7 +154,34 @@ p{
     height: 99px;
     top: 553px;
     left: 801px;
+    font-family: Poppins;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 33px;
+    letter-spacing: 0.5px;
+    color:#4B505A;
+    margin-bottom: 55px;
+  
+    
 
+
+
+}
+
+.link-more{
+
+    width: 112px;
+    height: 27px;
+    color:#6FBF44;
+    cursor: pointer;
+}
+
+
+
+.link-more:active{
+
+
+opacity: 0.5;
 
 
 
