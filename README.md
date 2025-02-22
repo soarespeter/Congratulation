@@ -18,5 +18,12 @@ nesse projeto iniciei  os estudos com:  <br>
 Aprendi também a parte de respossividade, onde fiz também para Mobile :iphone: :
 
 <img  src="https://github.com/soarespeter/Congratulation/blob/main/mobile.png?raw=true">
+<br>
+<br> 
+<h2>Continuamos nos estudos daqui com o 
+  <br>
+  <br>
+
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" width="400px"></h2>
 
 
